@@ -9,6 +9,7 @@ android_app_import {
 	name: "OnePlusGallery",
 	owner: "oneplus",
 	apk: "proprietary/product/priv-app/OnePlusGallery/OnePlusGallery.apk",
+	overrides: ["Photos"],
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
@@ -33,6 +34,7 @@ android_app_import {
 	name: "OnePlusCamera",
 	owner: "oneplus",
 	apk: "proprietary/product/priv-app/OnePlusCamera/OnePlusCamera.apk",
+	overrides: ["Camera2"],
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
