@@ -14,6 +14,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     OnePlusGallery \
-    CameraPicProcService \
     OnePlusCamera \
+    OnePlusCameraPicProcService \
     OnePlusCameraService
