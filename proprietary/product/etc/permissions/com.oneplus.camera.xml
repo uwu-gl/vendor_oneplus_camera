@@ -6,5 +6,6 @@
         <permission name="android.permission.CONTROL_DISPLAY_BRIGHTNESS" />
         <permission name="android.permission.DEVICE_POWER"/>
         <permission name="android.permission.QUERY_ALL_PACKAGES"/>
+        <permission name="android.permission.TURN_SCREEN_ON"/>
     </privapp-permissions>
 </permissions>
